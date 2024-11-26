@@ -24,8 +24,6 @@
 - **Tools:**
   ![Jupyter](https://img.shields.io/badge/-Jupyter-F05032?style=flat&logo=Jupyter&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-- **Most Used Language:**
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallaviwale&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-wale/)
@@ -34,5 +32,8 @@
 ---
 
 ⭐️ From [pallaviwale](https://github.com/pallaviwale)
+
+## 📊 Most Used Languages
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pallaviwale&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center"> :handshake:Thank You for Visiting!:handshake:</h2>
