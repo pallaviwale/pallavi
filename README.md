@@ -4,7 +4,10 @@
 <h1 align="center">Hi 👋, I'm Pallavi! 👩‍💻</h1>
 <h2 align="center">🏆 Aspiring Data Analyst 🪶</h2>
 
-<h2 align="center"> ![image](https://github.com/user-attachments/assets/077520ce-46cf-41f8-acc8-80a8d7f1e766) </h2>
+<p align="center">
+  <img src="https://di3xp7dfi3cq.cloudfront.net/media/mf_webp/jpeg/media/magefan_blog/data-analysis-skills-duties-responsibilities.webp" alt="Data Analysis" width="600">
+</p>
+
 
 ## 🚀 About Me
 🗺️Data Analyst proficient in Python🐍, SQL, Power BI🪶, and Machine Learning🤖. Skilled in data cleaning,🗺 analysis, visualization🌿, and predictive modeling💡. Collaborates with teams to transform data🪻 into actionable insights🍂 for strategic decision-making❄️ and operational efficiency🥀
