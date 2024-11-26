@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Pallavi! 👩‍💻</h1>
 <h2 align="center">🏆 Aspiring Data Analyst 🪶</h2>
 
+<h2 align="center"> ![image](https://github.com/user-attachments/assets/077520ce-46cf-41f8-acc8-80a8d7f1e766) </h2>
+
 ## 🚀 About Me
 🗺️Data Analyst proficient in Python🐍, SQL, Power BI🪶, and Machine Learning🤖. Skilled in data cleaning,🗺 analysis, visualization🌿, and predictive modeling💡. Collaborates with teams to transform data🪻 into actionable insights🍂 for strategic decision-making❄️ and operational efficiency🥀
 
