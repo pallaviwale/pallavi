@@ -1,8 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=pallaviwale&color=blue)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pallaviwale&color=blue" alt="Profile Views">
-</p>
 
 <h1 align="center">Hi 👋, I'm Pallavi! 👩‍💻</h1>
 <h2 align="center">🏆 Aspiring Data Analyst 🪶</h2>
